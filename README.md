@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oussama Aznague</h1>
-<h3 align="center">A passionate Backend Engineer & Team Lead focused on building scalable and secure systems</h3>
+<h3 align="center">A passionate Software Enginee focused on building scalable and secure systems</h3>
 
 - 🔭 I’m currently working on **scalable microservices architectures and cloud security**.
 - 🌱 I’m continuously exploring **advanced distributed systems and performance optimization**.
