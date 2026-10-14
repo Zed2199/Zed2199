@@ -98,12 +98,11 @@ I believe an untested feature isn't done: tests, coverage and observability are 
 
 ---
 
-### 📈 &nbsp;GitHub Stats
+### 📈 &nbsp;GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zed2199&count_private=true&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zed2199&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zed2199&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Zed2199&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zed2199&layout=compact&theme=radical&hide_border=true&langs_count=6&hide=html,css,makefile,dart" alt="Top Languages" />
 </p>
 
 ---
